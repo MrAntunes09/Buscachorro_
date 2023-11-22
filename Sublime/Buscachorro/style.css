@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Super Comic';
+  src: local(Super), url('fontes/SuperComic.ttf'), format('ttf');
+}
+
+body {
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .fonte{
+    font-family: 'Super Comic', sans-serif; 
+  }
